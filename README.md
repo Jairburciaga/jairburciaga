@@ -65,7 +65,7 @@ I'm a **Computational Engineering** graduate with practical experience in **data
 
 ## 🌱 Currently Learning
 
-- Data Engineering  
+- Master of Busieness Administration with focus on Data Science and AI for Business  
 - Cloud Pipelines (e.g. GCP, BigQuery)  
 - Model Deployment & MLOps  
 
