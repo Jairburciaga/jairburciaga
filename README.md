@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jair Burciaga</h1>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2014/10/05/19/02/binary-code-475664_1280.jpg" alt="Banner" style="width:100%; height:250px; object-fit:cover;" />
+  <img src="https://cdn.pixabay.com/photo/2016/04/06/08/47/wire-rack-1311161_960_720.jpg" />
 </p>
 
 
