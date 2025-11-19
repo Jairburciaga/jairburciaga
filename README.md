@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jair Burciaga</h1>
 
 <p align="center">
-  <img src="[https://cdn.pixabay.com/photo/2020/02/10/03/48/road-4835215_1280.jpg](https://cdn.vectorstock.com/i/500p/31/84/relax-smile-banner-vector-14633184.avif" alt="Banner" style="max-width:100%; border-radius: 8px;](https://cdn.pixabay.com/photo/2016/04/21/06/38/logo-1342671_1280.png)" />
+  <img src="[https://cdn.pixabay.com/photo/2020/02/10/03/48/road-4835215_1280.jpg](https://cdn.vectorstock.com/i/500p/31/84/relax-smile-banner-vector-14633184.avif" alt="Banner" style="max-width:100%; border-radius: 8px;]"/>
 </p>
 
 <h2 align="center">🚀 Data Scientist | ML Engineer | Computational Engineer</h2>
