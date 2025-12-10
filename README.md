@@ -93,5 +93,5 @@ I maintain my skills by solving daily coding challenges and exploring new utilit
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jairburciaga&show_icons=true&theme=default&hide_border=true" alt="Jair's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jairburciaga&theme=dark&hide_border=true&date_format=j%20M%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
