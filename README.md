@@ -19,46 +19,48 @@ I'm a **Computational Engineering** graduate with practical experience in **data
 
 ---
 
-## 🧠 Tech Stack & Tools
+## 🛠 Tech Stack & Tools
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ---
 
-## 📂 Projects
+## 🏆 Featured Portfolio Projects (Flagships)
 
-- 👨‍💻 All of my work is available at:  
-  👉 [https://github.com/Jairburciaga](https://github.com/Jairburciaga)
+These represent my most complex and comprehensive developments, demonstrating **end-to-end execution** and **business impact**.
+
+### 1. [Talent Drain Risk (Employee Turnover Prediction)](https://github.com/Jairburciaga/talent_drain_risk)
+*End-to-end Machine Learning solution designed to predict and mitigate employee turnover risk.*
+* **Impact:** Delivered substantial ROI through financial analysis, projecting a **$2.7M positive business impact** by reducing attrition.
+* **Tech Stack:** Python, Decision Tree Classification, Financial Modeling, Tableau Dashboard for strategic visualization.
+* **Status:** Completed ✅
+
+### 2. [Forecast Planner](https://github.com/Jairburciaga/Forecast_Planner)
+*An automated, machine learning-powered demand forecasting tool.*
+* **Key Functionality:** Imports and cleans raw sales data, automates hyperparameter generation, and delivers reliable demand forecasts.
+* **Tech Stack:** Python, Core ML Libraries (e.g., Scikit-learn, Statsmodels).
+
+### 3. [Gold Price Predictor](https://github.com/Jairburciaga/Gold_Price_Predictor)
+*A Support Vector Regression (SVR) Model for financial forecasting of the GLD gold ETF.*
+* **Purpose:** Predicts next-period and next 5-period price movements, adaptable to any stock or ETF with historical data access.
+* **Tech Stack:** Support Vector Regression (SVR), Python, Google Finance API integration.
 
 ---
+
+## 🧪 Coding Laboratory & Continuous Practice
+
+I maintain my skills by solving daily coding challenges and exploring new utilities.
+
+| Repository | Content Focus |
+| :--- | :--- |
+| **[https://github.com/Jairburciaga/Data_Science_Lab](https://github.com/Jairburciaga/Data_Science_Lab)** | 📂 **Central Practice Container**<br>Contains: Algorithmic solutions (LeetCode), short-form data experiments, and automation scripts. |
 
 ## 🌱 Currently Learning
 
@@ -91,5 +93,5 @@ I'm a **Computational Engineering** graduate with practical experience in **data
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jairburciaga&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jairburciaga&show_icons=true&theme=default&hide_border=true" alt="Jair's GitHub Stats" />
 </p>
