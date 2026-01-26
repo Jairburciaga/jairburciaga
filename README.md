@@ -11,7 +11,7 @@
 
 ## 📌 About Me
 
-I'm a **Computational Engineering** graduate with practical experience in **data analysis**, **inventory optimization**, and **machine learning** in real business environments.
+I'm a **Computational Engineer** graduate with practical experience in **data analysis**, **inventory optimization**, and **machine learning** in real business environments.
 
 🔹 I’ve implemented predictive models and optimization pipelines in companies like **Walmart**, **Yazaki**, and **RedFrío**.  
 🔹 Passionate about transforming data into actionable insights and developing **AI-driven business solutions**.  
