@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jair Burciaga</h1>
 
-<p align="center">
-  <img src="https://cdn.pixabay.com/photo/2016/04/06/08/47/wire-rack-1311161_960_720.jpg" />
-</p>
-
 
 <h2 align="center">🚀 Data Scientist | ML Engineer | Computational Engineer</h2>
 
@@ -64,7 +60,7 @@ I maintain my skills by solving daily coding challenges and exploring new utilit
 
 ## 🌱 Currently Learning
 
-- Master of Busieness Administration with focus on Data Science and AI for Business  
+- Master of Business Administration with focus on Data Science and AI for Business  
 - Cloud Pipelines (e.g. GCP, BigQuery)  
 - Model Deployment & MLOps  
 
