@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jair Burciaga</h1>
 
 
-<h2 align="center">🚀 Data Scientist | ML Engineer | Computational Engineer</h2>
+<h2 align="center">Computer Science Engineer</h2>
 
 ---
 
 ## 📌 About Me
 
-I'm a **Computational Engineer** graduate with practical experience in **data analysis**, **inventory optimization**, and **machine learning** in real business environments.
+I'm a **Computer Science Engineer** graduate with practical experience in **data analysis**, **inventory optimization**, and **machine learning** in real business environments.
 
 🔹 I’ve implemented predictive models and optimization pipelines in companies like **Walmart**, **Yazaki**, and **RedFrío**.  
 🔹 Passionate about transforming data into actionable insights and developing **AI-driven business solutions**.  
-🔹 Currently enhancing my skills in **Data Engineering** and **Cloud Technologies**.
+🔹 Currently enhancing my skills in **Software Development** and **.NET**.
 
 ---
 
@@ -60,7 +60,7 @@ I maintain my skills by solving daily coding challenges and exploring new utilit
 
 ## 🌱 Currently Learning
 
-- Master of Business Administration with focus on Data Science and AI for Business  
+- C# | .NET
 - Cloud Pipelines (e.g. GCP, BigQuery)  
 - Model Deployment & MLOps  
 
